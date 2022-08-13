@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+    margin: 8px;
+    padding: 0px;
+}
+
+
+.hidden {
+    display: none;
+
+}
